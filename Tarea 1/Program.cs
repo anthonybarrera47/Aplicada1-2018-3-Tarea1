@@ -10,8 +10,10 @@ namespace Tarea_1
     {
         static void Main(string[] args)
         {
+            new Registro().ShowDialog();
             Menu m = new Menu();
             m.ImprimirMenu();
+            
         }
     }
 }

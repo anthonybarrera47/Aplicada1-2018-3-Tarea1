@@ -45,7 +45,7 @@ namespace Tarea_1
                 case 7:
                     return "Sabado";
                 default:
-                    return " ";
+                    return ("No hay un dia de la semana con el Numero: "+numero);
             }
         }
         public void Ejercicio5()//Hacer una programa que pueda calcular el perímetro y el área de cualquier polígono regular, pero que le pregunte al usuario qué desea calcular

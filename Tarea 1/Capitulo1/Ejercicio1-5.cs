@@ -15,10 +15,12 @@ namespace Tarea_1
 
         public void Ejercicio1()// Cree un proyecto nuevo que imprima su nombre en la ventana de la consola.
         {
+            Console.Clear();
             Console.WriteLine("Anthony Manuel Barrera Hidalgo");
         }
         public void Ejercicio5()//Agregue más mensajes a la aplicación que ha creado
         {
+            Console.Clear();
             Console.WriteLine("Hola Mundo");
             Console.WriteLine("Anthony Manuel Barrera Hidalgo");
             Console.WriteLine("Matricula: 2016-06666");

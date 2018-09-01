@@ -22,8 +22,7 @@ namespace Tarea_1
                 
                 int opcion = Convert.ToInt32(Console.ReadLine());
             while (true)
-            {
-                
+            {   
                 switch (opcion)
                 {
                     case 1:
